@@ -3,7 +3,7 @@
 Numerical investigation of hydrogen-enriched methane flames using **Python**, **Cantera**, and the **GRI-Mech 3.0** mechanism.
 
 ## 📌 Project Overview
-This study evaluates how adding hydrogen ($H_2$, 0% to 50%) to methane-air mixtures affects laminar flame characteristics and pollutant emissions ($NO_x$) across variations in equivalence ratio ($\phi$), pressure ($P$), and initial temperature ($T_0$).
+This study evaluates how adding hydrogen ($H_2$, 0% to 50%) to methane-air mixtures affects laminar flame characteristics and pollutant emissions ($NO_x$).
 
 ---
 
